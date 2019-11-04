@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "spring.dataSource.driverClassName",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dataSource.driverClassName'"
+  },
+  {
+    "name": "ACCOUNT_SECURITY_API_KEY",
+    "type": "java.lang.String",
+    "description": "A description for 'ACCOUNT_SECURITY_API_KEY'"
+  },
+  {
+    "name": "spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dataSource.password'"
+  },
+  {
+    "name": "mail.smtp.socketFactory.fallback",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.smtp.socketFactory.fallback'"
+  },
+  {
+    "name": "mail.transport.protocol",
+    "type": "java.lang.String",
+    "description": "A description for 'mail.transport.protocol'"
+  },
+  {
+    "name": "spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.dataSource.username'"
+  }
+]}
